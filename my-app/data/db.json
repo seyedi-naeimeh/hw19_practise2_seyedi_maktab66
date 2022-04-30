@@ -1,0 +1,40 @@
+{
+  "skills": [
+    {
+      "title": "htmlabaa",
+      "id": 1,
+      "category": "WebDesign",
+      "Desciption": "Hypertext Markup Language is the standard markup language for documents designed to be displayed in a web browser."
+    },
+    {
+      "title": "css",
+      "id": 2,
+      "category": "WebDesign",
+      "Desciption": "Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language like HTML. "
+    },
+    {
+      "title": "javascript",
+      "id": 3,
+      "category": "FrontEnd",
+      "Desciption": "JavaScript, often abbreviated as JS, is a high-level, interpreted programming language that conforms to the ECMAScript specification. "
+    },
+    {
+      "title": "React js",
+      "id": 4,
+      "category": "FrontEnd",
+      "Desciption": "React is a JavaScript library for building user interfaces. It is maintained by Facebook and a community of individual developers and companies. "
+    },
+    {
+      "title": "Node Js",
+      "id": 5,
+      "category": "BackEnd",
+      "Desciption": "ode.js is an open-source, cross-platform JavaScript run-time environment that executes JavaScript code outside of a browser."
+    },
+    {
+      "title": "MongoDB",
+      "id": 6,
+      "category": "BackEnd",
+      "Desciption": "MongoDB is a cross-platform document-oriented database program. Classified as a NoSQL database program."
+    }
+  ]
+}

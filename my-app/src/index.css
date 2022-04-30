@@ -1,0 +1,21 @@
+.textField{
+  display: flex;
+  flex-direction: column;
+  font-size: 10px;
+  align-items: center;
+}
+body h1{
+  font-size: 10px !important;
+  font-weight: bold;
+  
+}
+/* .modal-size {
+  position: absolute;
+  
+  top: 10%;
+ 
+  right: auto;
+
+
+  transform: translate(-50%, -50%);
+} */
